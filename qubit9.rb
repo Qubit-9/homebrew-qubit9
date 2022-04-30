@@ -1,5 +1,3 @@
-https://github.com/Qubit-9/q9-cli/releases/download/alpha/qubit9-0.1.1-aarch64-apple-darwin.tar.gz
-
 class qubit9 < Formula
   desc "Cli ti interact with Storage9"
   homepage "https://github.com/Qubit-9/q9-cli"
