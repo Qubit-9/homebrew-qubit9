@@ -7,7 +7,7 @@ Threfore all of our binaries are located in the [release] https://github.com/Qub
 
 # Usage
  ```
- brew tap qubit9/taps
+ brew tap qubit-9/taps
  brew install qubit9
  ```
 
